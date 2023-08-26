@@ -1,4 +1,4 @@
-package com.eduardopractice.model;
+package com.eduardopractice.model.entities;
 
 import jakarta.persistence.*;
 
